@@ -1,0 +1,15 @@
+﻿  example.cpp
+example.cpp(12): warning C4005: 'MAX': 매크로 재정의
+  c:\opencv-3.4.3\build\include\opencv2/core/cvdef.h(341): note: 'MAX'의 이전 정의를 참조하십시오.
+example.cpp(404): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+example.cpp(405): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+example.cpp(431): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+example.cpp(438): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+example.cpp(522): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+example.cpp(523): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  10 of 827 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  opencv_project.vcxproj -> C:\Users\TaeYoung\documents\visual studio 2017\Projects\opencv_project\x64\Release\opencv_project.exe
