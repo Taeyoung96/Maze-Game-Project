@@ -39,7 +39,7 @@
 
 ## 프로젝트 결과
 
-<p align="center"><img src="https://user-images.githubusercontent.com/41863759/100521093-e3dabd80-31e4-11eb-8e9d-2fedb6222d89.JPG" width="500px"></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/41863759/100521093-e3dabd80-31e4-11eb-8e9d-2fedb6222d89.JPG" width="300px"></p>  
 <p align="center"> 전체적인 프로젝트 모습 </p>  
 
 <p align="center"><img src="https://user-images.githubusercontent.com/41863759/100521096-e806db00-31e4-11eb-8c5b-175907574a32.gif" width="500px"></p>  
